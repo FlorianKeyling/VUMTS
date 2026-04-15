@@ -1,1 +1,1 @@
-This Programm measures the Distance of the Ultibot distance sensor.
+This programm measures the distance of the ultibot distance sensor.
